@@ -1,8 +1,0 @@
-invoice\create$product.class
-invoice\create.class
-api\getData.class
-application\Main.class
-application\Controller.class
-module-info.class
-api\Jdbc.class
-application\Product.class
