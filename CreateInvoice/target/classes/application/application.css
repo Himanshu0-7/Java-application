@@ -1,0 +1,44 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.animate-red:hover{
+	-fx-background-color:"#cb4335";
+	-fx-text-fill:white;
+	-fx-border-color:white;
+	 
+}
+.animate-green:hover{
+	-fx-background-color:"#229954";
+	-fx-border-color:white;
+	-fx-text-fill:white;
+}
+#clear:hover{
+	-fx-background-color:"#dc7633";
+	-fx-border-color:white;
+	-fx-text-fill:white;
+}
+#inv_date:hover{
+	-fx-background-color:red;
+}
+#product{
+	-fx-background-color:"#566573";
+	
+}
+#get_btn:hover{
+	-fx-background-color:"#2e86c1";
+	-fx-border-color:white;
+	-fx-text-fill:white;
+}
+#download:hover{
+	-fx-background-color:"#808b96";
+	-fx-border-color:white;
+	-fx-text-fill:white;
+}
+.buttonA{
+	-fx-background-color:"#d5dbdb";
+	
+}
+
+
+
+
+
